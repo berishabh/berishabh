@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ---
 
 
-I am a Flutter Developer in a perpetual state of learning new technologies.
-Primary interests: Data Structures & Algorithms, C++, Flutter & Dart, iOS Developemnt.
+I am an iOs Developer in a perpetual state of learning new technologies.
+Primary interests: Data Structures & Algorithms, C++, iOS Developemnt, Flutter & Dart.
 
 ### Languages and Tools:
 
