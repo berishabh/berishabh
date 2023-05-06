@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 
-I am an iOs Developer in a perpetual state of learning new technologies.
+I am an iOS Developer in a perpetual state of learning new technologies.
 Primary interests: Data Structures & Algorithms, C++, iOS Developemnt, Flutter & Dart.
 
 ### Languages and Tools:
